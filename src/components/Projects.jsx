@@ -23,6 +23,25 @@ const projects = [
   },
   {
     id: 2,
+    title: 'Online Resume Builder',
+    category: 'Web Development',
+    filter: 'web',
+    icon: '📄',
+    gradient: 'linear-gradient(135deg, #0f2027, #1a3a4a)',
+    description:
+      'A modern, fully responsive Online Resume Builder that lets users create, customize, and download professional resumes in real-time with a clean and intuitive UI.',
+    tags: ['React', 'Node.js', 'TypeScript', 'Vercel'],
+    metrics: [
+      { value: 'Live App', label: 'Vercel Deploy' },
+      { value: 'React', label: 'Frontend' },
+      { value: 'Real-Time', label: 'Preview' },
+    ],
+    github: 'https://github.com/sanjuDiatm-design/Online-Resume-Builder',
+    demo: 'https://online-resume-builder-five.vercel.app/',
+    featured: true,
+  },
+  {
+    id: 3,
     title: 'Smart-Cart Customer Clustering System',
     category: 'Machine Learning',
     filter: 'ml',
@@ -41,7 +60,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 3,
+    id: 4,
     title: 'Real-Time Sentiment Analysis Dashboard',
     category: 'NLP & LLMs',
     filter: 'nlp',
@@ -60,7 +79,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 4,
+    id: 5,
     title: 'NYC Airbnb Room Type Classifier',
     category: 'Data Analytics',
     filter: 'analytics',
@@ -79,7 +98,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 5,
+    id: 6,
     title: 'RAG-Powered Document Q&A System',
     category: 'NLP & LLMs',
     filter: 'nlp',
@@ -96,44 +115,6 @@ const projects = [
     github: 'https://github.com',
     demo: '#',
     featured: false,
-  },
-  {
-    id: 6,
-    title: 'Geospatial Crime Pattern Analysis',
-    category: 'Data Analytics',
-    filter: 'analytics',
-    icon: '🗺️',
-    gradient: 'linear-gradient(135deg, #0a1628, #162032)',
-    description:
-      'Interactive geospatial dashboard analyzing urban crime patterns using clustering and predictive hotspot mapping with police deployment optimization.',
-    tags: ['GeoPandas', 'DBSCAN', 'Folium', 'PostGIS', 'Dash'],
-    metrics: [
-      { value: '500K+', label: 'Records' },
-      { value: '15%', label: 'Crime Reduction' },
-      { value: '8', label: 'Cities Covered' },
-    ],
-    github: 'https://github.com',
-    demo: '#',
-    featured: false,
-  },
-  {
-    id: 7,
-    title: 'Online Resume Builder',
-    category: 'Web Development',
-    filter: 'web',
-    icon: '📄',
-    gradient: 'linear-gradient(135deg, #0f2027, #1a3a4a)',
-    description:
-      'A modern, fully responsive Online Resume Builder that lets users create, customize, and download professional resumes in real-time with a clean and intuitive UI.',
-    tags: ['React', 'Node.js', 'TypeScript', 'Vercel'],
-    metrics: [
-      { value: 'Live App', label: 'Vercel Deploy' },
-      { value: 'React', label: 'Frontend' },
-      { value: 'Real-Time', label: 'Preview' },
-    ],
-    github: 'https://github.com/sanjuDiatm-design/Online-Resume-Builder',
-    demo: 'https://online-resume-builder-five.vercel.app/',
-    featured: true,
   },
 ];
 
