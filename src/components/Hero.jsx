@@ -2,13 +2,13 @@ import '../styles/Hero.css';
 
 const stats = [
   { number: '15+', label: 'Projects Built' },
-  { number: '5+', label: 'Years Learning' },
-  { number: '8+', label: 'Technologies' },
+  { number: '7+', label: 'Technologies' },
+  { number: '2', label: 'Domains' },
 ];
 
 const chips = [
   { label: 'Python Expert', icon: '🐍', className: 'chip-1' },
-  { label: 'TensorFlow', icon: '🧠', className: 'chip-2' },
+  { label: 'React & Node.js', icon: '⚛️', className: 'chip-2' },
   { label: 'Data Viz', icon: '📊', className: 'chip-3' },
   { label: 'LLMs & AI', icon: '🤖', className: 'chip-4' },
 ];
@@ -40,14 +40,14 @@ export default function Hero() {
               Hi, I'm{' '}
               <span className="hero-headline-name">Sanju Ghosh</span>
               <br />
-              Data Scientist &amp;
+              Software Developer &amp;
               <br />
-              ML Engineer
+              Data Scientist
             </h1>
 
             <p className="hero-tagline">
-              I turn <strong>raw data into intelligent systems</strong> — building machine
-              learning models, data pipelines, and AI applications that solve real‑world problems.
+              I build <strong>full-stack web applications</strong> and <strong>intelligent data systems</strong> —
+              from React & Node.js frontends to ML models, AI pipelines, and production deployments.
             </p>
 
             <div className="hero-cta-group">

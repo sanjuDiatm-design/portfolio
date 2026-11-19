@@ -95,7 +95,7 @@ export default function Contact() {
             Let's <span className="gradient-text">Connect</span>
           </h2>
           <p className="section-subtitle">
-            Have a data challenge or exciting project? I'd love to hear from you.
+            Have a web app to build, a data challenge to solve, or an exciting opportunity? I'd love to hear from you.
           </p>
         </div>
 
@@ -104,12 +104,12 @@ export default function Contact() {
           <div className="contact-info">
             <h3 className="contact-info-title">
               Ready to build something{' '}
-              <span className="gradient-text">intelligent?</span>
+              <span className="gradient-text">great together?</span>
             </h3>
             <p className="contact-info-text">
-              I'm currently open to full-time roles, freelance data science projects,
-              and research collaborations. Whether you have a question or just want
-              to say hi — my inbox is always open.
+              I'm open to full-time roles in <strong>Software Development</strong> and <strong>Data Science</strong>,
+              freelance projects, and research collaborations. Whether you need a web app, an ML pipeline,
+              or just want to say hi — my inbox is always open.
             </p>
 
             <div className="contact-items">

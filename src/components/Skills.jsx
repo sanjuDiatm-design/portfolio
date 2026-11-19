@@ -3,6 +3,12 @@ import '../styles/Skills.css';
 
 const categories = [
   {
+    icon: '⚛️',
+    title: 'Software Development',
+    color: 'blue',
+    tags: ['React.js', 'Node.js', 'TypeScript', 'JavaScript', 'REST APIs', 'Express.js', 'HTML & CSS', 'Vite'],
+  },
+  {
     icon: '🤖',
     title: 'Machine Learning',
     color: 'purple',
@@ -41,6 +47,9 @@ const categories = [
 ];
 
 const tools = [
+  { name: 'React.js', emoji: '⚛️' },
+  { name: 'Node.js', emoji: '🟢' },
+  { name: 'TypeScript', emoji: '📘' },
   { name: 'LeetCode', emoji: '⚡' },
   { name: 'Jupyter', emoji: '📓' },
   { name: 'VS Code', emoji: '💻' },
@@ -53,20 +62,18 @@ const tools = [
   { name: 'LangChain', emoji: '🔗' },
   { name: 'OpenAI API', emoji: '🤖' },
   { name: 'Google Colab', emoji: '🌐' },
-  { name: 'Databricks', emoji: '💎' },
-  { name: 'Terraform', emoji: '🏗️' },
-  { name: 'Prometheus', emoji: '🔥' },
+  { name: 'Vercel', emoji: '▲' },
 ];
 
 const proficiencies = [
   { name: 'Python', pct: 95 },
+  { name: 'React.js & Node.js', pct: 80 },
+  { name: 'TypeScript', pct: 75 },
   { name: 'Machine Learning', pct: 90 },
   { name: 'Deep Learning', pct: 82 },
   { name: 'Data Analysis', pct: 93 },
   { name: 'SQL & Databases', pct: 85 },
-  { name: 'Cloud (AWS/GCP)', pct: 75 },
   { name: 'NLP & LLMs', pct: 78 },
-  { name: 'Data Visualization', pct: 88 },
 ];
 
 export default function Skills() {
@@ -99,7 +106,7 @@ export default function Skills() {
             My <span className="gradient-text">Tech Stack</span>
           </h2>
           <p className="section-subtitle">
-            A comprehensive toolkit for building end-to-end data science and AI solutions
+            A comprehensive toolkit for building full-stack web applications and end-to-end data science & AI solutions
           </p>
         </div>
 

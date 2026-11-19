@@ -163,8 +163,7 @@ export default function Projects() {
             Featured <span className="gradient-text">Projects</span>
           </h2>
           <p className="section-subtitle">
-            A selection of data science and ML projects showcasing end-to-end
-            workflows from EDA to production deployment
+            A selection of software development and data science projects — from full-stack web apps to ML models and AI pipelines
           </p>
         </div>
 
