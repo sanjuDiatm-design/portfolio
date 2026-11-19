@@ -2,7 +2,7 @@
 
 # ✦ Sanju Ghosh — Portfolio
 
-**Data Scientist & Machine Learning Engineer**
+**Software Developer & Data Scientist**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://sanju-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-sanjuDiatm--design-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjuDiatm-design)
@@ -12,7 +12,7 @@
 
 <br/>
 
-*A fast, responsive, and visually rich personal portfolio built with React + Vite — showcasing real-world AI, ML, and Data Science projects.*
+*A fast, responsive, and visually rich personal portfolio built with React + Vite — showcasing full-stack web applications, real-world AI/ML pipelines, and data science projects.*
 
 </div>
 
@@ -43,7 +43,7 @@
 - 📱 **Fully responsive** — mobile, tablet, and desktop
 - 🧭 **Smooth scroll navigation** with hamburger menu on mobile
 - 💡 **Animated hero section** with floating skill chips and rotating avatar rings
-- 🗂️ **Filterable project cards** by category (ML, NLP, Analytics)
+- 🗂️ **Filterable project cards** by category (Web Dev, ML, NLP, Analytics)
 - 📊 **Skills section** with animated proficiency bars and scrolling tool ticker
 - 🎓 **Education timeline** with tabbed certifications panel
 - 📬 **Contact form** with live submission feedback
@@ -56,8 +56,11 @@
 | Project | Category | Link |
 |---|---|---|
 | [YT Video & Comment Sentiment Analyzer](https://github.com/sanjuDiatm-design/AI_YouTube_Video_Analyzer) | NLP & LLMs | [▶ Live App](https://yt-comment-sentiment-analysis.streamlit.app/) |
+| [Online Resume Builder](https://github.com/sanjuDiatm-design/Online-Resume-Builder) | Web Development | [▶ Live App](https://online-resume-builder-five.vercel.app/) |
 | [SmartCart Customer Clustering System](https://github.com/sanjuDiatm-design/SmartCart-Customer-Clustering-System) | Machine Learning | [▶ Repo](https://github.com/sanjuDiatm-design/SmartCart-Customer-Clustering-System) |
+| [Real-Time Sentiment Analysis Dashboard](https://github.com/sanjuDiatm-design) | NLP & LLMs | [▶ Details](#) |
 | [NYC Airbnb Room Type Classifier](https://github.com/sanjuDiatm-design/NYC-Airbnb-Room-Classifier) | Data Analytics | [▶ Live App](https://nyc-airbnb-room-classifier-1.onrender.com/) |
+| [RAG-Powered Document Q&A System](https://github.com/sanjuDiatm-design) | NLP & LLMs | [▶ Details](#) |
 
 ---
 
@@ -99,8 +102,8 @@ portfolio/
 
 ```bash
 # Clone the repository
-git clone https://github.com/sanjuDiatm-design/portfolio.git
-cd portfolio
+git clone https://github.com/sanjuDiatm-design/sanju-portfolio.git
+cd sanju-portfolio
 
 # Install dependencies
 npm install
