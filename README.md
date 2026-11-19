@@ -4,7 +4,7 @@
 
 **Software Developer & Data Scientist**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://sanju-portfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjughosh.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-sanjuDiatm--design-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjuDiatm-design)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22d3ee?style=for-the-badge)](./LICENSE)
 [![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
