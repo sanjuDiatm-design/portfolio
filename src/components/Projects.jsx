@@ -116,6 +116,25 @@ const projects = [
     demo: '#',
     featured: false,
   },
+  {
+    id: 7,
+    title: 'Online Resume Builder',
+    category: 'Web Development',
+    filter: 'web',
+    icon: '📄',
+    gradient: 'linear-gradient(135deg, #0f2027, #1a3a4a)',
+    description:
+      'A modern, fully responsive Online Resume Builder that lets users create, customize, and download professional resumes in real-time with a clean and intuitive UI.',
+    tags: ['React', 'Node.js', 'TypeScript', 'Vercel'],
+    metrics: [
+      { value: 'Live App', label: 'Vercel Deploy' },
+      { value: 'React', label: 'Frontend' },
+      { value: 'Real-Time', label: 'Preview' },
+    ],
+    github: 'https://github.com/sanjuDiatm-design/Online-Resume-Builder',
+    demo: 'https://online-resume-builder-five.vercel.app/',
+    featured: true,
+  },
 ];
 
 const filters = [
@@ -124,6 +143,7 @@ const filters = [
   { label: 'Deep Learning', value: 'dl' },
   { label: 'NLP & LLMs', value: 'nlp' },
   { label: 'Analytics', value: 'analytics' },
+  { label: 'Web Dev', value: 'web' },
 ];
 
 export default function Projects() {

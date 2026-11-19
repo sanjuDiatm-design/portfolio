@@ -30,13 +30,13 @@ const categories = [
     icon: '⚡',
     title: 'Web & APIs',
     color: 'pink',
-    tags: ['FastAPI', 'Flask', 'Streamlit', 'REST APIs', 'Docker'],
+    tags: ['FastAPI', 'Flask', 'Streamlit', 'REST APIs', 'Docker', 'Node.js', 'React.js'],
   },
   {
     icon: '💻',
     title: 'Programming & Core CS',
     color: 'purple',
-    tags: ['Python', 'Java', 'Data Structures & Algorithms', 'Computer Networks', 'Operating Systems', 'Git & GitHub'],
+    tags: ['Python', 'Java', 'TypeScript', 'Data Structures & Algorithms', 'Computer Networks', 'Operating Systems', 'Git & GitHub'],
   },
 ];
 
